@@ -1,13 +1,7 @@
-
-import React, { useState, useCallback } from 'react';
-import {
-  View,
-  StyleSheet,
-  Text,
-} from 'react-native';
+import React from 'react';
+import {View, StyleSheet, Text} from 'react-native';
 
 const App = () => {
-
 
   return (
     <View style={{flex: 1, backgroundColor: '#777'}}>
@@ -18,6 +12,4 @@ const App = () => {
 
 export default App;
 
-const styles = StyleSheet.create({
-
-});
+const styles = StyleSheet.create({});
