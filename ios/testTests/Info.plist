@@ -20,5 +20,10 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>would like access to your photo gallery</string>
+	<key>NSCameraUsageDescription</key>
+	<string>would like to use your camera</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
 </dict>
 </plist>

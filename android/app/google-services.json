@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292934901385",
+    "project_id": "pushrest-af852",
+    "storage_bucket": "pushrest-af852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292934901385:android:a285c54c2351eff89f3058",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292934901385-984p5rknqqae75rirk6beeu8bassu2o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCn0qTc4gOhFdqvTMLxTlkb_xLioFtNd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292934901385-984p5rknqqae75rirk6beeu8bassu2o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
