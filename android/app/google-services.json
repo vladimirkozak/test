@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "292934901385",
-    "project_id": "pushrest-af852",
-    "storage_bucket": "pushrest-af852.appspot.com"
+    "project_number": "32199384516",
+    "project_id": "test-1edec",
+    "storage_bucket": "test-1edec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:292934901385:android:a285c54c2351eff89f3058",
+        "mobilesdk_app_id": "1:32199384516:android:6afdb62c2990633147d891",
         "android_client_info": {
           "package_name": "com.test"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "292934901385-984p5rknqqae75rirk6beeu8bassu2o5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDCn0qTc4gOhFdqvTMLxTlkb_xLioFtNd4"
+          "current_key": "AIzaSyDEUJVV1uA-mdvKn2smozJs7JiM5HMpmA8"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "292934901385-984p5rknqqae75rirk6beeu8bassu2o5.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
